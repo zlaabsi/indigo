@@ -10,9 +10,6 @@ author: zlaabsi
 externalLink: false
 ---
 
-## Projects
-
----
 
 
 ### [Bike traffic : prediction and visualization](/sample_page)
