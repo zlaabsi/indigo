@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Projects"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
@@ -7,29 +7,45 @@ image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-so
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Projects of the M1"
 category: project
-author: johndoe
+author: zlaabsi
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+## Projects
 
 ---
 
-What has inside?
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+### [Bike traffic : prediction and visualization](/sample_page)
+
+**Predicting and visualizing bicycle traffic in Montpellier**
+
+In order to make a prediction, a forecasting method via time series was used called the SARIMA (*Seasonnal AutoRegressive Integrated Moving Average*) method to train a database (database trained at the end of 2020) and to make a forecast for April 2, 2021 at 9:00 AM. 
+
+For the visualization part, an animation has been produced via circles whose diameter changes according to the intensity of the bike traffic in each zone where a bike counter is located in Montpellier city.
+
+[More information on the Github repository](https://github.com/zlaabsi/DataChallenge)
+
+
+<img src="images/datachallenge.png?raw=true"/>
 
 ---
+### [Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+**Covid-19 Vaccine statistics and map on a dashboard**
+
+This dashboard is a part of a software development project, consisting in analyzing the spread of Covid-19 disease in France with an animated map, which allows to visualize per day the deaths due to covid in the French departments.
+
+Different graphs and gifs have been produced to illustrate how Covid-19 affects the population, for example by age (e.g. a dashboard with different statistical characteristics).
+
+[More information on the Github repository](https://github.com/jihene-b3/covidviz)
+
+
+<img src="images/vacctrackerproject.png?raw=true"/>
+
+
+
+
+---
