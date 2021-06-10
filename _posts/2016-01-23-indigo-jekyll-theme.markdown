@@ -6,7 +6,7 @@ tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Projects of the M1"
 category: project
 author: zlaabsi
