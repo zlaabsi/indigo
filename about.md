@@ -26,10 +26,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 + Data Wrangling
 + Data Analysis
 + Data Visualization
-+ Machine learning
-+ Deep learning
-+ Cloud computing
-+ Blockhain & smart-contract
++ Data Management
++ Machine Learning
++ Deep Learning
++ Cloud Computing
++ Blockhain & Smart-contract
 
 ---
 
@@ -112,7 +113,13 @@ Statistical analysis : R Shiny (R), Matplotlib (Python)
 
 Dashboard : Microsoft Power BI, Dash Plotly (Python), Tableau
 
-### Blockchain / Smart-Contract
+### Data management
+
+Language used : SQL
+Software : MySQL
+
+### Ethereum Blockchain / Smart-Contract
 
 Language used: Solidity
+Software : Ganache, Remix (Ethereum IDE)
 
