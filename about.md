@@ -18,19 +18,20 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
+---
+
 ## Areas of Expertise
 
-+ Statistical modeling
-+ Exploratory data analysis
-+ Data mining / data science
-+ Python & Libraries 
-+ R language (RStudio)
++ Statistical Modeling
++ Data Wrangling
++ Data Analysis
++ Data Visualization
 + Machine learning
 + Deep learning
-+ SQL (MySQL)
-+ Microsoft Power BI
-+ Cloud computing: Azure, AWS, GCP
-+ Blockhain & smart-contract, Solidity
++ Cloud computing
++ Blockhain & smart-contract
+
+---
 
 ### Data Wrangling
 
@@ -108,3 +109,6 @@ Survival analysis : R
 Dashboard : Microsoft Power BI, Dash Plotly (Python), Tableau
 
 ### Blockchain / Smart-Contract
+
+Language used: Solidity
+
