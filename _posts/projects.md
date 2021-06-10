@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Projects 2"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
