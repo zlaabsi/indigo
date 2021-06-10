@@ -6,7 +6,7 @@ tag: data science
 hidden: true # don't count this post in blog pagination
 description: "Projects of the M1"
 category: project
-authors: zlaabsi
+author: zlaabsi
 externalLink: false
 ---
 
