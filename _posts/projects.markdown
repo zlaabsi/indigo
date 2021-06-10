@@ -1,9 +1,9 @@
 ---
-title: "Data Science Projects "
+title: "Data Science Projects"
 layout: post
-projects: true
 date: 2016-01-23 22:10
 tag: data science
+projects: true
 hidden: true # don't count this post in blog pagination
 description: "Projects of the M1"
 category: project
