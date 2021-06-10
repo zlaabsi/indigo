@@ -98,13 +98,17 @@ Associated libraries / Frameworks : Scikit-learn,  TensorFlow, Keras
 
 ### Cloud computing
 
-Azure, AWS, GCP
+Cloud service providers : 
+
++ Azure
++ AWS
++ GCP
 
 ### Data visualization :
 
 Geospacial analysis : Kepler.gl with WebGL
 
-Survival analysis : R
+Statistical analysis : R Shiny (R), Matplotlib (Python)
 
 Dashboard : Microsoft Power BI, Dash Plotly (Python), Tableau
 
