@@ -18,29 +18,93 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
+## Areas of Expertise
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
++ Statistical modeling
++ Exploratory data analysis
++ Data mining / data science
++ Python & Libraries 
++ R language (RStudio)
++ Machine learning
++ Deep learning
++ SQL (MySQL)
++ Microsoft Power BI
++ Cloud computing: Azure, AWS, GCP
++ Blockhain & smart-contract, Solidity
 
-<h2>Projects</h2>
+### Data Wrangling
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+Language used : Python
+
+Associated libraries : Pandas, Geopandas
+
+Structuring
+Cleaning
+Enrichment
+Validation
+
+
+
+
+
+### Data Analysis
+
+#### Machine Learning / Deep Learning
+
+##### Unsupervised Learning
+
+Language used : R
+
+Associated package : FactoMinerR, ade4
+
+
++ Clustering :
+  + K-means
+  + Hierarchical K-means 
+
+
++ Dimensionality reduction :
+  + Correspondence analysis (CA)
+  + Principal component analysis (PCA)
+  + Multiple correspondance analysis (MCA)
+ 
++ Regression :
+  + Partial Least Squares regression (PLS)
+  + Principal component regression (PCR) 
+  + Ridge / LASSO regression
+
+
+
+##### Supervised Learning
+
+Language used: Python
+Associated libraries / Frameworks : Scikit-learn,  TensorFlow, Keras
+
++ Classification :
+  + K-Nearest Neighbors (KNN)
+
++ Regression :
+  + K-Nearest Neighbors (KNN)
+
+
++ Neural networks :
+  +   Feedforward neural network FFNN 
+  +   Recurrent neural network RNN
+  +   Long short-term memory LSTM
+  +   Convolutional neural network CNN
+
+
+
+### Cloud computing
+
+Azure, AWS, GCP
+
+### Data visualization :
+
+Geospacial analysis : Kepler.gl with WebGL
+
+Survival analysis : R
+
+Dashboard : Microsoft Power BI, Dash Plotly (Python), Tableau
+
+### Blockchain / Smart-Contract
