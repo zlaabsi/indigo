@@ -1,6 +1,7 @@
 ---
 title: "Data Science Projects"
 layout: post
+date: 2021-05-25
 tag: data science
 projects: true
 hidden: true # don't count this post in blog pagination
