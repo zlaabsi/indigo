@@ -1,5 +1,5 @@
 ---
-title: "Projectz"
+title: "Data Science Projects "
 layout: post
 projects: true
 tag: data science
