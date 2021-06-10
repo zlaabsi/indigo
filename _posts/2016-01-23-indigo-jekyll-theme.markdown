@@ -10,7 +10,7 @@ hidden: true # don't count this post in blog pagination
 description: "Projects of the M1"
 category: project
 author: zlaabsi
-externalLink: false
+externalLink: true
 ---
 
 ## Projects
@@ -28,8 +28,7 @@ For the visualization part, an animation has been produced via circles whose dia
 
 [More information on the Github repository](https://github.com/zlaabsi/DataChallenge)
 
-
-image: assets/images/datachallenge.png
+<img src="assets/images/datachallenge.png?raw=true"/>
 
 ---
 ### [Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
@@ -42,8 +41,7 @@ Different graphs and gifs have been produced to illustrate how Covid-19 affects 
 
 [More information on the Github repository](https://github.com/jihene-b3/covidviz)
 
-
-image: assets/images/vacctrackerproject.png
+<img src="assets/images/vacctrackerproject.png?raw=true"/>
 
 
 
