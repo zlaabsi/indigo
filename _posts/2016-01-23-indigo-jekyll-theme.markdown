@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Projects of the M1"
 category: projects
-author: zlaabsi
+author: johndoe
 externalLink: true
 ---
 
