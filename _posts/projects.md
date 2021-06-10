@@ -1,3 +1,19 @@
+---
+title: "Projects"
+layout: post
+date: 2016-01-23 22:10
+tag: jekyll
+image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "Projects of the M1"
+category: project
+author: zlaabsi
+externalLink: true
+---
+
+
 ## Projects
 
 ---
