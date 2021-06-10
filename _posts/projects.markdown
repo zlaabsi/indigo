@@ -2,6 +2,7 @@
 title: "Data Science Projects "
 layout: post
 projects: true
+date: 2016-01-23 22:10
 tag: data science
 hidden: true # don't count this post in blog pagination
 description: "Projects of the M1"
