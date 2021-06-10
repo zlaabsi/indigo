@@ -28,7 +28,8 @@ For the visualization part, an animation has been produced via circles whose dia
 
 [More information on the Github repository](https://github.com/zlaabsi/DataChallenge)
 
-<img src="indigo/assets/images/datachallenge.png?raw=true"/>
+<img src="https://zlaabsi.github.io/indigo/assets/images/datachallenge.png?raw=true"/>
+
 
 ---
 ### [Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
