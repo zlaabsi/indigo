@@ -29,8 +29,8 @@ For the visualization part, an animation has been produced via circles whose dia
 
 [More information on the Github repository](https://github.com/zlaabsi/DataChallenge)
 
+<img src="https://zlaabsi.github.io/indigo/assets/images/datachallenge.png?raw=true"/>
 
-<img src="images/datachallenge.png?raw=true"/>
 
 ---
 ### [Covid Vaccines Tracker](/pdf/Covid_Visualization.pdf)
@@ -43,8 +43,7 @@ Different graphs and gifs have been produced to illustrate how Covid-19 affects 
 
 [More information on the Github repository](https://github.com/jihene-b3/covidviz)
 
-
-<img src="images/vacctrackerproject.png?raw=true"/>
+<img src="https://zlaabsi.github.io/indigo/assets/images/vacctrackerproject.png?raw=true"/>
 
 
 
