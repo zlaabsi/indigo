@@ -10,10 +10,19 @@ Data Science Student in double master MIND/SIAD : Mathematics applied to Statist
 Currently looking for an internship and/or a work-study as a Data Scientist / Data Analyst for my last year of studies.
 
 
-<p>
-   
+---
 
-</p>
+## Academic background: 
+
+During my first year of master, I worked on two important projects in software development / data science: the first one was a [statistical prediction](https://github.com/zlaabsi/DataChallenge) of bicycle traffic in the city of Montpellier and the second one consisted in creating a [Python package](https://github.com/jihene-b3/covidviz) gathering various visualization tools (graph, dashboard...) related to the Covid-19 data.
+
+I also worked on a research project both theoretical and applied in the field of survival analysis, supervised by my teacher [Elodie Brunel-Piccinini](https://imag.umontpellier.fr/~brunel/index.html). This project consisted in simulating via the R language covariates (explanatory variables such as age or sex) with a time dependence according to a Weibull distribution. 
+
+In addition, work on Multivariate Analysis and Modeling and Multivariate Data Analysis was carried out on a wide variety of data such as climate, mortality or olive oil varieties.
+
+Finally, I am currently training in problems requiring the use of deep neural networks via Tensorflow, Keras and PyTorch and integration via cloud computing platforms such as Azure, AWS or Google Cloud.
+
+
 
 ---
 
