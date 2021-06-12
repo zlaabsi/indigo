@@ -13,8 +13,8 @@ picture: assets/images/idlogo.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://github.com/zlaabsi/indigo/blob/7f102ec3b52c00f3386d438095e8a358ed2bea7a/pdf/cv_zakaria.pdf
+resume-external: false
+resume-url: pdf/cv_zakaria.pdf
 
 url: https://zlaabsi.github.io/indigo
 # your url: https://USERNAME.github.io
